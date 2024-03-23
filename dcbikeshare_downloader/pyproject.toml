@@ -1,0 +1,25 @@
+[project]
+name = "dcbikeshare_downloader"
+dynamic = ["version"]
+authors = [
+  { name="Donal Heidenblad", email="dheidenb@umd.edu" },
+]
+description = "A simple downloader for the DC Bikeshare Data"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/donalus/dcbikeshare_downloader"
+Issues = "https://github.com/donalus/dcbikeshare_downloader/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool]

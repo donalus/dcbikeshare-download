@@ -1,0 +1,3 @@
+This library provides helper functions to download Capital Bikeshare data from the Capital Bikeshare S3 bucket and saves it to a local directory. There are scripts to extract the data from the zip files into csv files.
+
+This library is not affiliated, approved, endorsed, or sponsored by Lyft Bikes and Scooters, LLC ("Bikeshare"). Bikeshare does not provide support for this library. Bikeshare makes the data available to the public under the Bikeshare Data License Agreement available at https://ride.capitalbikeshare.com/data-license-agreement. By downloading the data, you agree to the terms of the license agreement.
